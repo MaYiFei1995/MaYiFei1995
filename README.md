@@ -1,10 +1,10 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MaYiFei1995&show_icons=true&hide_title=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&count_private=true" />
 
-- 🔭 I’m currently working on 📱
+- 🔭 I’m currently working on android application dev.
 - 🌱 I’m currently learning 🚲
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiFei1995&theme=vue&layout=compact)](https://github.com/MaYiFei1995/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiFei1995&theme=vue&layout=compact" />
 
 <!--
 **MaYiFei1995/MaYiFei1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
