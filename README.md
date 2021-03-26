@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on android application dev.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiFei1995&theme=vue&layout=compact" />
+<img align="right" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiFei1995&theme=vue" />
 
 <!--
 **MaYiFei1995/MaYiFei1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
