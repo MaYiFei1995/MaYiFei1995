@@ -1,9 +1,8 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MaYiFei1995&show_icons=true&hide_title=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&count_private=true" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiFei1995&layout=compact&theme=buefy&count_private=true" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiFei1995&layout=compact&theme=buefy&count_private=true" />
+
 
 <!--
 **MaYiFei1995/MaYiFei1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
